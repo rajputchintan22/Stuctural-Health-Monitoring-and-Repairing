@@ -1,0 +1,3 @@
+high severe freeze thaw damage
+low severe freeze thaw damage
+medium severe freeze thaw damage

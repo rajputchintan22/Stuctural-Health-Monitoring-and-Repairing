@@ -1,0 +1,3 @@
+high severe asr with small closely spaced brownish colour cracking pattern
+medium severe asr with closely spaced map cracking pattern
+low severe asr with wide map cracking pattern

@@ -1,0 +1,7 @@
+asr
+delamination
+freeze_thaw_damage
+acid_attack
+chloride_attack
+spalling
+sulphate_attack

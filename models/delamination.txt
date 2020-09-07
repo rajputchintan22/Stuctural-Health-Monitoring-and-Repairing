@@ -1,0 +1,3 @@
+high severe delamination spreaded more than 600mm in any direction
+low severe delamination spreaded less than 150mm in any direction
+medium severe delamination spreaded between 150 600mm in any direction

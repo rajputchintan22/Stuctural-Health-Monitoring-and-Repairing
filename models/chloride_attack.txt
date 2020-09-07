@@ -1,0 +1,3 @@
+high severity chloride attack
+low severity chloride attack
+medium severity chloride attack

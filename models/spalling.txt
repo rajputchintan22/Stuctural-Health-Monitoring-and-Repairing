@@ -1,0 +1,6 @@
+high severe
+low severe
+medium severe
+spalling exposing both longitudinal and traverse reinforcement
+spalling exposing only traverse reinforcement
+spalling exposing only longitudinal reinforcement

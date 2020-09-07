@@ -1,0 +1,3 @@
+high severe sulphate attack
+low severe sulphate attack
+medium severe sulphate attack
